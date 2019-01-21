@@ -1,0 +1,10 @@
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\WindowsApplication1.PriceSchedule.resources
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\WindowsApplication1.MainForm.resources
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\TicketSales.vbproj.GenerateResource.Cache
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\bin\Debug\TicketSales.exe
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\bin\Debug\TicketSales.pdb
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\bin\Debug\TicketSales.xml
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\TicketSales.exe
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\TicketSales.xml
+C:\Users\Kritz\Desktop\Ticket Sales\TicketSales\TicketSales\obj\x86\Debug\TicketSales.pdb
